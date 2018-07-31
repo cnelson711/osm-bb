@@ -1,1 +1,1 @@
-# osm-bb
+Some bitbake recipes for OSM mapping dependencies
